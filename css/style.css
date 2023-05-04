@@ -51,4 +51,9 @@ input {
 .signup-active {
   color: orange;
   display: flex;
+}
+
+.user-data {
+  display: none;
+  flex-direction: column;
 }/*# sourceMappingURL=style.css.map */
